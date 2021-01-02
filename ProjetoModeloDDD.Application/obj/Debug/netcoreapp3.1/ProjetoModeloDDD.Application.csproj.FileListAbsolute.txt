@@ -1,0 +1,9 @@
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.deps.json
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.dll
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.pdb
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.AssemblyInfo.cs
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.dll
+C:\Users\jpkab\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Application.pdb
